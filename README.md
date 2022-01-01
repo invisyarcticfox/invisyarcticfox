@@ -1,5 +1,6 @@
-### Yo
+## Yo
 
+- My name is: Lucas but lots of people call me Sham
 - I’m currently working on: [a custom discord profile](https://projects.shamshitty.xyz/discordprofile/)
 - I’m currently learning: HTML and CSS
 - I’m looking to collaborate on: nothing rn
