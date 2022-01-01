@@ -6,7 +6,7 @@
 - I’m looking to collaborate on: nothing rn
 - I’m looking for help with: nothing rn
 - Ask me about: absolutely nothing because i know jackshit
-- How to reach me: [shamshitty#0001](https://shamshitty.xyz/places/social/discord/), [@shamshitty](https:/?shamshitty.xyz/places/social/instagram/), [@shamshitty](https://shamshitty.xyz/places/social/telegram/), [@shamshitty_priv](https://shamshitty.xyz/places/social/twitter/)
+- How to reach me: [shamshitty#0001](https://shamshitty.xyz/places/social/discord/), [@shamshitty](https://shamshitty.xyz/places/social/instagram/), [@shamshitty](https://shamshitty.xyz/places/social/telegram/), [@shamshitty_priv](https://shamshitty.xyz/places/social/twitter/)
 - Pronouns: He/They
 - Fun fact: I'm gay
 
