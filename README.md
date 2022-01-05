@@ -20,3 +20,10 @@
 ## Here's Some Stats
 
 ![shamshitty's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamshitty&show_icons=true&theme=dark)
+
+
+## Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/470193291053498369)](https://discord.com/users/470193291053498369)
+
+*sorry this is so long*
