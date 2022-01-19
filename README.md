@@ -1,4 +1,4 @@
-## Yo
+# Yo
 
 - My name is Lucas but lots of people call me Sham
 - I’m currently learning:
@@ -16,6 +16,6 @@
     * [#00df00](https://www.htmlcsscolor.com/hex/00df00)
     * [#cc3333](https://www.htmlcsscolor.com/hex/cc3333)
 
-## Here's Some Stats
-
+## 
+### Here's some stats
 ![shamshitty's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamshitty&show_icons=true&theme=dark)
