@@ -15,6 +15,7 @@
     * [#141414](https://www.htmlcsscolor.com/hex/141414)
     * [#00df00](https://www.htmlcsscolor.com/hex/00df00)
     * [#cc3333](https://www.htmlcsscolor.com/hex/cc3333)
+- Favourite band: [And One](https://andone.de)
 
 ## 
 ### Here's some stats
