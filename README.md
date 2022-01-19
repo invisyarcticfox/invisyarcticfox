@@ -1,16 +1,14 @@
 ## Yo
 
-- My name is: Lucas but lots of people call me Sham
-- I’m currently working on:
-    * [a custom discord profile](https://projects.shamshitty.xyz/discordprofile/)
+- My name is Lucas but lots of people call me Sham
 - I’m currently learning:
     * `HTML`
     * `CSS`
 - How to reach me:
     * [shamshitty#0001](https://discord.com/channels/@me)
-    * [@shamshitty](https://www.instagram.com/shamshitty/)
-    * [@shamshitty](https://t.me/shamshitty)
-    * [@shamshitty_priv](https://twitter.com/shamshitty_priv)
+    * [instagram](https://www.instagram.com/shamshitty/)
+    * [telegram](https://t.me/shamshitty)
+    * [twitter](https://twitter.com/shamshitty_priv)
 - Pronouns: He/They
 - Fun fact: I'm gay
 - Colours i like:
