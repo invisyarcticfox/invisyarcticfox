@@ -24,6 +24,6 @@
 
 #
 
-## **Here's Some Stats**
+### **Here's Some Stats**
 
 ![shamshitty's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamshitty&show_icons=true&theme=dark)
