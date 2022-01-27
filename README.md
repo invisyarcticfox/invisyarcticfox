@@ -20,7 +20,7 @@
     * [**#cc3333**](https://htmlcsscolor.com/hex/cc3333)
 - Favourite band: [**And One**](https://andone.de)
 - Favourite game: **Garry's Mod**
-- Favourite game OST: [**Persona 3 OST**](https://open.spotify.com/album/4yyExVOiwrE7TDZfxAGgki)
+- Favourite game OST: **Persona 3 OST**
 
 #
 
