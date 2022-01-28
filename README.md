@@ -19,8 +19,6 @@
     * [**#00df00**](https://htmlcsscolor.com/hex/00df00)
     * [**#cc3333**](https://htmlcsscolor.com/hex/cc3333)
 - Favourite band: [**And One**](https://andone.de)
-- Favourite game: **Garry's Mod**
-- Favourite game OST: **Persona 3 OST**
 
 #
 
