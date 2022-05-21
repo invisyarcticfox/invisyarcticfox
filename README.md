@@ -1,17 +1,15 @@
-# **Yo**
+# **Hey :)**
 
 - My name is: **Lucas** but lots of people call me **Sham**
 - I’m currently learning:
     * **`HTML`**
     * **`CSS`**
 - How to reach me:
-    * [**shamshitty#0001**](https://discord.com/channels/@me)
-    * [**instagram**](https://instagram.com/shamshitty/)
-    * [**telegram**](https://t.me/shamshitty)
-    * [**twitter**](https://twitter.com/shamshitty)
+    * My name is `shamshitty` everywhere :)
+    * Though my name on Minecraft is `shamshiddy` and on Roblox it's `shamshamswagger`
 - Pronouns: **He/They**
 - Fun fact: **I'm gay**
-- Favourite band: [**And One**](https://andone.de)
+- Favourite band: [**And One**](https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv)
 
 #
 
