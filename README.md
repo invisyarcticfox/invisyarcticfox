@@ -1,12 +1,12 @@
 # **Hey :)**
 
 - My name is: **Lucas** but lots of people call me **Sham**
-- I’m currently learning:
-    * **`HTML`**
-    * **`CSS`**
+- I’m currently working with:
+    * `HTML`
+    * `CSS`
 - How to reach me:
-    * My name is `shamshitty` everywhere :)
-    * Though my name on Minecraft is `shamshiddy` and on Roblox it's `shamshamswagger`
+    * My name is **`shamshitty`** everywhere :)
+    * *(on some games my username is different tho)*
 - Pronouns: **He/They**
 - Fun fact: **I'm gay**
 - Favourite band: [**And One**](https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv)
