@@ -7,6 +7,7 @@
 - How to reach me:
     * My name is **`shamshitty`** everywhere :)
     * *(on some games my username is different tho)*
+    * yoh yeah also [my website](https://shamshitty.xyz)
 - Pronouns: **He/They**
 - Fun fact: **I'm gay**
 - Favourite band: [**And One**](https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv)
