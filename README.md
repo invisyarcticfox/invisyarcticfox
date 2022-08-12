@@ -2,14 +2,13 @@
 
 - My name is: **Lucas** but lots of people call me **Sham**
 - I’m currently working with:
-    * `HTML`
-    * `CSS`
+    * ![html](https://img.shields.io/badge/-HTML-0d0d0d?&logo=HTML5)
+    * ![css](https://img.shields.io/badge/-CSS-0d0d0d?&logo=CSS3&logoColor=blue)
 - How to reach me:
     * My name is **`shamshitty`** everywhere :)
-    * *(on some games my username is different tho)*
     * yoh yeah also [my website](https://shamshitty.xyz)
-- Pronouns: **He/They**
-- Fun fact: **I'm gay**
+- Pronouns: ![he/they](https://img.shields.io/badge/-he%2Fthey-00aa00)
+- Not So Fun fact: **im a fucking furry**
 - Favourite band: [**And One**](https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv)
 
 #
