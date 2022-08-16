@@ -7,7 +7,7 @@
 - How to reach me:
     * My name is **`shamshitty`** everywhere :)
     * yoh yeah also [my website](https://shamshitty.xyz)
-- Pronouns: ![he/they](https://img.shields.io/badge/-he%2Fthey-00aa00)
+- Pronouns: he/they
 - Not So Fun fact: **im a fucking furry**
 - Favourite band: [**And One**](https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv)
 
