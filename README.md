@@ -1,4 +1,4 @@
-# **Hey** <img src="https://static-cdn.jtvnw.net/emoticons/v2/1/default/dark/5.0" alt="drawing" width="40">
+# **Hey** <img src="https://static-cdn.jtvnw.net/emoticons/v2/1/default/dark/5.0" width="40">
 
 - My name is: **Lucas** but lots of people call me **Sham**
 - I’m currently working with:
