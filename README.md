@@ -5,7 +5,7 @@
     * ![html](https://img.shields.io/badge/-HTML-0d0d0d?&logo=HTML5)
     * ![css](https://img.shields.io/badge/-CSS-0d0d0d?&logo=CSS3&logoColor=blue)
 - How to reach me:
-    * My name is **`shamshitty`** everywhere :)
+    * My name is **`shamshitty`** on most socials
     * yoh yeah also [my website](https://shamshitty.xyz)
 - Pronouns: he/they
 - Not So Fun fact: **im a fucking furry**
