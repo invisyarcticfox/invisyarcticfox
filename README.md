@@ -15,3 +15,6 @@
 
 ### **cool snake :)**
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shamshitty/shamshitty/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/shamshitty/shamshitty/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+### Discord profile thing
+[![Discord Presence](https://lanyard.cnrad.dev/api/470193291053498369)](https://discord.com/users/470193291053498369)
