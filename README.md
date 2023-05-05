@@ -9,8 +9,8 @@
     * yoh yeah also [my website](https://shamshitty.xyz)
 - Pronouns: he/they
 - Not So Fun fact: **im a fucking furry**
-- Favourite band: [**And One**](https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv)
-
+- Favourite bands: [**And One**](https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv), [**Kiltro**](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm), [**Battle Tapes**](https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67)
+- Interests: Military Aviation, Video Editing, 3D Animation, *basic* Web Development
 #
 
 ### **cool snake :)**
