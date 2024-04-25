@@ -1,8 +1,8 @@
 # **Hey** <img src="https://static-cdn.jtvnw.net/emoticons/v2/1/default/dark/5.0" style="width:40px; margin-bottom:-5px;">
 
-![pronoun badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F62fd108a95ed6674fbc907ac.json&query=%24.message&style=for-the-badge&labelColor=141414&color=009900&link=https%3A%2F%2Fshamshitty.xyz)
+![pronoun badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F62fd108a95ed6674fbc907ac.json&query=%24.message&style=for-the-badge&label=pronouns&labelColor=141414&color=009900&link=https%3A%2F%2Fshamshitty.xyz)
 &nbsp;
-![age badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdigidates.de%2Fapi%2Fv1%2Fage%2F2005-05-04&query=%24.age&style=for-the-badge&labelColor=141414&color=009900&link=https%3A%2F%2Fshamshitty.xyz)
+![age badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdigidates.de%2Fapi%2Fv1%2Fage%2F2005-05-04&query=%24.age&style=for-the-badge&label=age&labelColor=141414&color=009900&link=https%3A%2F%2Fshamshitty.xyz)
 
 - My name is **Lucas** but I'm mostly known as **Sham**
 - I work with:
