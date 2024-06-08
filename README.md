@@ -24,19 +24,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shamshitty&theme=dark&title_color=00aa00&text_color=ddd&icon_color=4f8cc9" height="180">&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshitty&theme=dark&layout=compact&title_color=00aa00&text_color=ddd&icon_color=4f8cc9" height="180">
 </p>
-
-
-```math
-\mmlToken{ms}[fontfamily="
-goombafont;
-color:red;
-pointer-events:none;
-z-index: -11;
-position: fixed;
-inset:0;
-object-fit: cover;
-background-size: cover;
-width: 130vw;
-opacity: 0.5;
-background: url('https://github.com/shamshitty/shamshitty/blob/main/gay.png?raw=true');
-"]{}
