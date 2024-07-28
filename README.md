@@ -24,4 +24,5 @@
  <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shamshitty&theme=dark&title_color=00aa00&text_color=ddd&icon_color=4f8cc9" height="180">&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshitty&theme=dark&layout=compact&title_color=00aa00&text_color=ddd&icon_color=4f8cc9" height="180">
+  <img src="https://github-profile-trophy.vercel.app/?username=shamshitty&theme=onedark">
 </p>
