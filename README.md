@@ -19,8 +19,10 @@
     - <img src="https://i.imgur.com/GyGZqGw.jpeg" height="20">&nbsp;[**Kiltro**](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm)
     - <img src="https://i.imgur.com/VRizE4z.jpeg" height="20">&nbsp;[**Battle Tapes**](https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67)
     - <img src="https://i.imgur.com/J2g43Ry.jpeg" height="20">&nbsp;[**Rinse & Repeat**](https://open.spotify.com/artist/3LZFx6FDLyv8zoCpORQIK)
-#
- ### anyway heres some stats
+###
+oh yea most of my repos are private so even tho only like 2 are public i have like 7 more that are private and those ones i do more work on
+##
+### anyway heres some stats
  <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shamshitty&theme=dark&title_color=00aa00&text_color=ddd&icon_color=4f8cc9" height="180">&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshitty&theme=dark&layout=compact&title_color=00aa00&text_color=ddd&icon_color=4f8cc9" height="180">
