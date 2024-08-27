@@ -1,8 +1,8 @@
 # **Hey** <img src="https://static-cdn.jtvnw.net/emoticons/v2/1/default/dark/5.0" style="width:40px; margin-bottom:-5px;">
 
-![pronoun badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F62fd108a95ed6674fbc907ac.json&query=%24.message&style=for-the-badge&label=pronouns&labelColor=141414&color=009900&link=https%3A%2F%2Fshamshitty.xyz)
+![pronoun badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F62fd108a95ed6674fbc907ac.json&query=%24.message&style=for-the-badge&label=pronouns&labelColor=141414&color=009900&link=https%3A%2F%invisyarcticfox.uk)
 &nbsp;
-![age badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdigidates.de%2Fapi%2Fv1%2Fage%2F2005-05-04&query=%24.age&style=for-the-badge&label=age&labelColor=141414&color=009900&link=https%3A%2F%2Fshamshitty.xyz)
+![age badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdigidates.de%2Fapi%2Fv1%2Fage%2F2005-05-04&query=%24.age&style=for-the-badge&label=age&labelColor=141414&color=009900&link=https%3A%2F%invisyarcticfox.uk)
 
 - My name is **Lucas** but I'm mostly known as **Sham**
 - Languages I work with:
@@ -11,7 +11,7 @@
     - ![scss](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=fff)
     - ![js](https://img.shields.io/badge/js-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
 - Ways to reach me:
-    - my [website](https://shamshitty.xyz)
+    - my [website](https://invisyarcticfox.uk)
     - My username is **`@invisyarcticfox`** pretty much everywhere
     - If not it's probably still **`@shamshitty`** or something
 - Favourite bands:
@@ -24,7 +24,7 @@ oh yea most of my repos are private so even tho only like 2 are public i have li
 ##
 ### anyway heres some stats
  <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamshitty&theme=dark&title_color=00aa00&text_color=ddd&icon_color=4f8cc9" height="180">&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshitty&theme=dark&layout=compact&title_color=00aa00&text_color=ddd&icon_color=4f8cc9" height="180">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamshitty&theme=onedark">
+  <img src="https://github-readme-stats.vercel.app/api?username=invisyarcticfox&theme=dark&title_color=00aa00&text_color=ddd&icon_color=4f8cc9" height="180">&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisyarcticfox&theme=dark&layout=compact&title_color=00aa00&text_color=ddd&icon_color=4f8cc9" height="180">
+  <img src="https://github-profile-trophy.vercel.app/?username=invisyarcticfox&theme=onedark">
 </p>
