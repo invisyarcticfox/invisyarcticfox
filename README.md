@@ -2,17 +2,21 @@
 
 - My name is **Lucas**, I'm a 19 year old guy who does stuff on a computer
 - Languages I work with:
-    - ![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-    - ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-    - ![scss](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=fff)
-    - ![js](https://img.shields.io/badge/js-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
+    - <img width="25" src="https://cdn.simpleicons.org/html5"/>
+    - <img width="25" src="https://cdn.simpleicons.org/css3"/>
+    - <img width="25" src="https://cdn.simpleicons.org/sass"/>
+    - <img width="25" src="https://cdn.simpleicons.org/javascript"/>
+- Software I work with:
+    - <img width="25" src="https://cdn.simpleicons.org/blender/000/fff"/>
+    - <img width="25" src="https://cdn.simpleicons.org/gimp/000/fff"/>
+    - <img width="25" src="https://cdn.simpleicons.org/vegas/000/fff"/>
 - Ways to reach me:
     - my [website](https://invisyarcticfox.uk)
     - My username is **`@invisyarcticfox`** pretty much everywhere
 - Favourite bands:
-    - <img src="https://i.imgur.com/4SFHV89.jpeg" height="20">&nbsp;[**And One**](https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv)
-    - <img src="https://i.imgur.com/OEvm4SW.png" height="20">&nbsp;[**Kiltro**](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm)
-    - <img src="https://i.imgur.com/ELXkFss.jpeg" height="20">&nbsp;[**Rinse & Repeat**](https://open.spotify.com/artist/3LZFx6FDLyv8zoCpORQIK)
+    - <img src="https://i.imgur.com/4SFHV89.jpeg" height="25">&nbsp;[**And One**](https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv)
+    - <img src="https://i.imgur.com/OEvm4SW.png" height="25">&nbsp;[**Kiltro**](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm)
+    - <img src="https://i.imgur.com/ELXkFss.jpeg" height="25">&nbsp;[**Rinse & Repeat**](https://open.spotify.com/artist/3LZFx6FDLyv8zoCpORQIK)
 ##
 ### anyway heres some stats
  <p>
