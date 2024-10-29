@@ -13,6 +13,7 @@
 - Ways to reach me:
     - my [website](https://invisyarcticfox.uk)
     - My username is **`@invisyarcticfox`** pretty much everywhere
+    - ![](https://dcbadge.limes.pink/api/shield/470193291053498369)
 - Favourite bands:
     - <img src="https://i.imgur.com/4SFHV89.jpeg" height="25">&nbsp;[**And One**](https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv)
     - <img src="https://i.imgur.com/OEvm4SW.png" height="25">&nbsp;[**Kiltro**](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm)
