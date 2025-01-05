@@ -16,11 +16,8 @@
 - Favourite bands:
     - <img src="https://i.imgur.com/4SFHV89.jpeg" height="25">&nbsp;[**And One**](https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv)
     - <img src="https://i.imgur.com/OEvm4SW.png" height="25">&nbsp;[**Kiltro**](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm)
-    - <img src="https://i.imgur.com/ELXkFss.jpeg" height="25">&nbsp;[**Rinse & Repeat**](https://open.spotify.com/artist/3LZFx6FDLyv8zoCpORQIK)
-##
-### anyway heres some stats
- <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=invisyarcticfox&theme=dark&title_color=00aa00&text_color=ddd&icon_color=4f8cc9" height="180">&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisyarcticfox&theme=dark&layout=compact&title_color=00aa00&text_color=ddd&icon_color=4f8cc9" height="180">
-  <img src="https://github-profile-trophy.vercel.app/?username=invisyarcticfox&theme=onedark">
-</p>
+    - <img src="https://i.imgur.com/wqlRSVj.jpeg" height="25">&nbsp;[**Crosa Rosa**](https://open.spotify.com/artist/0Orf99XP6n8qBr6p8ThKYp?si=e2d7f29347c647a8)
+- Other hobbies:
+    - Animation
+    - Photography
+    - Video Editing
