@@ -4,6 +4,7 @@
 - Languages I work with:
     - <img width="25" src="https://cdn.simpleicons.org/html5"/>
     - <img width="25" src="https://cdn.simpleicons.org/css3"/>
+    - <img width="25" src="https://cdn.simpleicons.org/astro"/>
     - <img width="25" src="https://cdn.simpleicons.org/sass"/>
     - <img width="25" src="https://cdn.simpleicons.org/javascript"/>
 - Software I work with:
